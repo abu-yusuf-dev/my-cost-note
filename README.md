@@ -5,7 +5,8 @@ Here is a real life application build with django, bootstrap-4, ajax.
 
 This application will manage your all cost things automatically.
 
-You/Your partner will be able to:  
+You/Your partner will be able to:
+```
 1. Add cost  
 2.Search cost  
 3.See total cost till now  
@@ -14,6 +15,7 @@ You/Your partner will be able to:
 6.Restriction to other people  
 7.Download pdf file of cost list  
 8.And a lot..  
+```
 
 I need to have an application like this. And finally i make it. It's live now. You can test also.
 
