@@ -1,6 +1,14 @@
 # my-cost-note
 A daily cost management system using django: https://my-cost-note.herokuapp.com/
 
+## Tools:
+```
+1.Django
+2.Bootstrap-4
+3.Postgres
+4.JQuery
+```
+
 
 ![Screenshot](cost/cost-1.png)
 ![Screenshot](cost/cost-2.png)  
