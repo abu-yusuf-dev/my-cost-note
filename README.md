@@ -5,7 +5,7 @@ Here is a real life application build with django, bootstrap-4, ajax.
 
 This application will manage your all cost things automatically.
 
-You/Your partner will be able to:
+You/Your partner will be able to:  
 1. Add cost  
 2.Search cost  
 3.See total cost till now  
