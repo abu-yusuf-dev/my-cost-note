@@ -43,3 +43,5 @@ Cheers!
 ![Screenshot](cost/cost-7.png)  
 ### You can start a chat conversation with your partner(wife/cost-partner).
 ![Screenshot](cost/cost-8.png)
+
+## If you found this usefull don't forget to hit a star :) 
