@@ -20,6 +20,7 @@ You/Your partner will be able to:
 I need to have an application like this. And finally i make it. It's live now. You can test also.
 
 Cheers!
+### N.B: If you want to donate for this project please email: revelyusuf109@gmail.com
 
 ## Tools:
 ```
